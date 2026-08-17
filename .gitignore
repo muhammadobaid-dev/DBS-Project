@@ -1,0 +1,19 @@
+# Ignore sensitive config (if you store passwords)
+# config.php  ← uncomment this if config has real passwords
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+error_log
+
+# PHP temp files
+*.tmp
+*.cache
